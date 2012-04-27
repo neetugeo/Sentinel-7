@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>hunter.png</file>
+    </qresource>
+</RCC>

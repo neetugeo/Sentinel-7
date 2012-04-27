@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>metalblock.png</file>
+    </qresource>
+</RCC>

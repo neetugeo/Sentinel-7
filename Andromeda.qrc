@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>andromeda.png</file>
+    </qresource>
+</RCC>
